@@ -11,7 +11,7 @@ Run the program. To exit; <kbd>Win</kbd>+</kbd>Ü</kbd>.
 | <kbd>Win</kbd> + <kbd>E</kbd> + &larr; | Next song |
 
 ## Auto start with Windows?
- * <kbd>Press [Windows] + R</kbd>
+ * Press <kbd>[Windows] + R</kbd>
  * "shell:startup"
- * <kbd>Press [Enter]</kbd>
+ * Press <kbd>[Enter]</kbd>
  * Create shortcut or copy into folder
