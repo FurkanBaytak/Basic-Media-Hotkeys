@@ -21,7 +21,7 @@ Donwload the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kb
  * Don't forget to close before starting to play any game with anticheat. There is nothing wrong with the program but **better be safe than sorry**.
   
 ### How it's Work?
- * It's a simple code which i wrote with using [Auto Hotkey](https://www.autohotkey.com).
+ * It's a really simple code which i wrote with using [Auto Hotkey](https://www.autohotkey.com).
   ```
   #NoTrayIcon
 
