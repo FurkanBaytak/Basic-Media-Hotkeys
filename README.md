@@ -11,7 +11,7 @@ Donwload the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kb
 | <kbd>Win</kbd> + <kbd>E</kbd>  | Next song |
 | <kbd>Win</kbd> + <kbd>Ü</kbd>  | Exit program |
 
-## Auto start with Windows
+## Startup with Windows
  * Press <kbd>[Windows] + R</kbd>
  * Type <kbd> shell:startup
  * Press <kbd>[Enter]</kbd>
