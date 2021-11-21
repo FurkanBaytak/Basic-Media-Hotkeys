@@ -17,9 +17,6 @@ Download the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kb
  * Press <kbd>[Enter]</kbd>
  * Create shortcut or copy into folder
   
-### DON'T FORGET
- * Don't forget to close before starting to play any game with anticheat. There is nothing wrong with the program but **better be safe than sorry**.
-  
 ### How it's Work?
  * It's a really simple code which i wrote with using [Auto Hotkey](https://www.autohotkey.com).
   ```
@@ -32,3 +29,6 @@ Download the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kb
   #ü::ExitApp
   ```
 * There is a [Guide](https://www.autohotkey.com/docs/commands/Send.htm) for how the code is working.
+  
+### DON'T FORGET
+ * Don't forget to close before starting to play any game with anticheat. There is nothing wrong with the program but **better be safe than sorry**.
