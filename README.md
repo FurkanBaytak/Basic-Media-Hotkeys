@@ -13,5 +13,5 @@ Run the program. To exit; <kbd>Win</kbd>+</kbd>Ü</kbd>.
 ## Auto start with Windows?
  * <kbd>![Windows]</kbd> + <kbd>R</kbd>
  * "shell:startup"
- * <kbd>![Enter]</kbd>
+ * <kbd>Press [Enter]</kbd>
  * Create shortcut or copy into folder
