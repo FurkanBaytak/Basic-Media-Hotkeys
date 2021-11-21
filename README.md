@@ -2,7 +2,7 @@
 Basic media hotkeys for who don't have hotkeys in their keyboard.
 
 ## How to use?
-Donwload the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kbd> .
+Download the ".exe" file. Run the program. To exit just press; <kbd>Win + Ü</kbd> .
 
 | Hotkey | Action |
 | ------ | ------ |
